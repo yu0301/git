@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print(message)
         print(reverse(text: "stressed"))
         super.viewDidLoad()
+        //asdfghjk
         // Do any additional setup after loading the view.
     }
     
